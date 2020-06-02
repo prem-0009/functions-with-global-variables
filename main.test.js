@@ -2,7 +2,41 @@
  * YOUR CODE GOES HERE THIS TIME! *
  **********************************/
 
+let x =3;
 
+let y = 10;
+
+let squareTheNumber = 4;
+
+let greeting = 'hello';
+
+let firstName = 'prem';
+
+let calling = 'ringing';
+
+function double(){
+  x=x*2;
+}
+
+function triple(){
+  y=y+y+y;
+}
+
+function square(){
+  squareTheNumber=squareTheNumber*4;
+}
+ 
+function beingNice(){
+  greeting = 'hello '+firstName;
+}
+
+function fullName(){
+  firstName = 'not found';
+}
+
+function phoneCall(){
+  calling = 'call ended'
+}
 
 
  
